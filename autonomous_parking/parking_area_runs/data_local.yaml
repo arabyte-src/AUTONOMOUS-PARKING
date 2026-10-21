@@ -1,0 +1,7 @@
+path: /home/c-jaylavapie/cv/autonomous_parking/parking_area_yolo_dataset
+train: train/images
+val: valid/images
+test: test/images
+nc: 1
+names:
+  0: parking_area
